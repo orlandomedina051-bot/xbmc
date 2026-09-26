@@ -171,4 +171,4 @@
     <uap:Capability Name="picturesLibrary" />
     <rescap:Capability Name="hevcPlayback" />
   </Capabilities>
-</Package>
+</Package> #1
